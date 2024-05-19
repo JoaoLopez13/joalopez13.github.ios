@@ -1,0 +1,105 @@
+#contenedor{
+    width: 60%; 
+    border: 1px solid red;
+    margin: auto;
+    background-color: white
+}
+#cabecera{
+    display: flex;
+    
+}
+#logo img{
+    padding-top: 10px;
+    height: 60px;
+    width: 70px;
+    margin-right: 20px;
+    
+}
+#menu{
+    display: flex;
+    gap: 250px;
+    justify-content: space-around;
+    
+}
+#menu_1{
+    display: flex;
+    margin-top: 15px;
+    gap: 30px;  
+}
+#menu_3{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+
+}
+.img_logo{
+    height: 30px;
+    width: 20px;
+}
+a{
+    color: red;
+    text-decoration: none;
+}
+hr{
+    color: red;
+}
+#icono_1{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    margin-top: 20px;
+}
+#ic1_text{
+    width: 300px;
+    text-align: center;
+    background-color: red;
+    color: white;
+    border-radius: 15px;
+}
+#icono_1 img{
+    height: 300px;
+}
+#icono_2{
+        display: flex;
+        margin: auto;
+        justify-content: center;
+        margin-top: 20px;
+}
+#ic2_text{
+    width: 300px;
+    text-align: center;
+    background-color: red;
+    color: white;
+    border-radius: 15px;
+}
+#icono_2 img{
+    height: 300px;
+}
+.orden{
+    color: white;
+    text-decoration: underline;
+}
+.text_dentro{
+    margin-bottom: 70px;
+}
+#menu_2{
+    background-color: red;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+#pie{
+    display: flex;
+    justify-content: space-between;
+}
+#icons img{
+    width: 50px;
+    height: 50px;
+}
+#politica img{
+    width: 100px;
+    height: 100px;
+}
+#informacion{
+    text-align: center;
+}
