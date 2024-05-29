@@ -1,0 +1,92 @@
+body{
+    margin: auto;
+    width: 60%;
+    text-align: center;
+
+}
+header{
+    text-align: center;
+    padding: 0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: sticky;
+    background-color: white ;
+    color: white;
+    position: sticky;
+    top: 0;
+    padding-bottom: 10px;
+    border-bottom:1px solid #00704A
+
+}
+header img{
+    border-radius: ;
+    height: 100%;
+    width: 100px;
+}
+.arriba{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    border: 3px solid #00704A;
+    background-color: #00704A;
+}
+nav{
+    background-color: white;
+    font-size: 21px;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+li{
+    background-color: white;
+    list-style-type: none;
+}
+li a{
+    color: green;
+    text-decoration: none;
+    margin: 10px;
+}
+a:hover{
+    color: rgb(0, 200, 0);
+    text-decoration: underline;
+}
+section img{
+    height: 300px;
+    width: 500px;
+}
+section h2{
+    color: #00704A;
+    text-transform: uppercase;
+}
+h1{
+    text-align: center;
+}
+footer{
+    color: white;
+    background-color: #00704A;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+footer img{
+
+    height: 70px;
+    width: 70px;
+}
+a img{
+    height: 30px;
+    width: 30px;
+    border-radius: 10px;
+}
+p{
+    font-family: sans-serif;
+}
+#imgiz{
+    float: left;
+    margin-right: 15px;
+    height: 250px ;
+    width: 250px;
+}

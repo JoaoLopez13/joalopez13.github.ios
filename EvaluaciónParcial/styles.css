@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url(img/fondo\ 1.avif);
+    color: white;
+    background-position: 600px auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 120px;
+}
+header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #00704A;
+    font-size: 30px;
+}
+p{
+    font-family: sans-serif;
+    font-size: 25px;
+}
+a{
+    color: green;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 30px;
+}
+a:hover{
+    color: rgb(0, 200, 0);
+    text-decoration: underline;
+}
+img{
+    height: 40px;
+    width: 40px;
+    margin: auto 10px;
+    border-radius: ;
+}
+#fb{
+    height: 40px;
+    width: 50px;    
+}
